@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of films and readings assigned for each
+  session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
