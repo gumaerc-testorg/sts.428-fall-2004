@@ -57,7 +57,7 @@ Scott, James. _Seeing Like a State: How Certain Schemes to Improve the Human Co
 
 Fitzgerald, Deborah. "Technology and Agriculture in 20th Century America." In _A Companion to American Technology_. Edited by Carroll Pursell. Oxford: Blackwell, in press, 2005. ISBN: 9780631228448.
 
-Turner, Frederick Jackson. "[The Significance of the Frontier in American History](http://xroads.virginia.edu/~HYPER/TURNER/)." New York, NY: Dover Publications, 1996. ISBN: 9780486291673.
+Turner, Frederick Jackson. "{{% resource_link "f7754249-a228-4ba8-8c17-bbcc133ba2b6" "The Significance of the Frontier in American History" %}}." New York, NY: Dover Publications, 1996. ISBN: 9780486291673.
 
 Hofstadter, Richard. "The Agrarian Myth and Commercial Realities." In _The Age of Reform_ . New York, NY: Vintage, 1960. ISBN: 9780394700953.
 
